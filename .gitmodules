@@ -1,3 +1,4 @@
 [submodule "cards"]
 	path = cards
 	url = git@github.com:SergiySavarin/card_game.git
+	brach = dev
